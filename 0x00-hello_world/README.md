@@ -1,1 +1,1 @@
-Compile file and create an executable
+C program
