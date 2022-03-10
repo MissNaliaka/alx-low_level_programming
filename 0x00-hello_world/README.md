@@ -1,1 +1,1 @@
-Generate assembly code-intel syntax
+C program that prints to the standard error
