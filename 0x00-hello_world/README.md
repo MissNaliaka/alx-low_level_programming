@@ -1,1 +1,1 @@
-Generate assembly code
+Compile file and create an executable
