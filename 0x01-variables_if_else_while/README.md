@@ -1,1 +1,1 @@
-Prints all single digit numbers of base 10 starting from 0
+Prints all single digit numbers of base ten from 0 using putchar
