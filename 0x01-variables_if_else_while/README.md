@@ -1,1 +1,1 @@
-Print all numbers base of 16 in lowercase(hexadecimal)
+Prints all possible combinations of single-digit numbers
