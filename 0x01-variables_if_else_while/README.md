@@ -1,1 +1,1 @@
-Prints the alphabet in lowercase except letters q and e
+Prints all single digit numbers of base 10 starting from 0
