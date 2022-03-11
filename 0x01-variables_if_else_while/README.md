@@ -1,1 +1,1 @@
-Prints all single digit numbers of base ten from 0 using putchar
+Print the lowercase alphabet in reverse using putchar
