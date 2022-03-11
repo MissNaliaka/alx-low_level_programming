@@ -1,1 +1,1 @@
-Prints all different combinations of two digits
+Prints all possible different combinations of three digits using putchar
