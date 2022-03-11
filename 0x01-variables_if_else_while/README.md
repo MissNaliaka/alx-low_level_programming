@@ -1,1 +1,1 @@
-Prints all possible different combinations of three digits using putchar
+Prints all combinations of two two-digit numbers 0-99, in ascending order
