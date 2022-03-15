@@ -1,1 +1,1 @@
-Function that prints all natural numbers from n to 98
+list natural numbers below 10 that are multiples of 3 or 5
