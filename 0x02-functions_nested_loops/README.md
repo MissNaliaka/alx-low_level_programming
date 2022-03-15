@@ -1,1 +1,1 @@
-Function that prints the last digit of a number
+Prints every minute of the day of jack baeur
