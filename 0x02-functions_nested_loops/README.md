@@ -1,1 +1,1 @@
-list natural numbers below 10 that are multiples of 3 or 5
+prints the first Fibonacci numbers, starting with 1 and 2
