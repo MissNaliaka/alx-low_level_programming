@@ -1,1 +1,1 @@
-Adding Fibonacci Sequence 4
+Function that prints the n times table
