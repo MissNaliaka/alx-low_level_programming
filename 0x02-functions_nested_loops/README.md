@@ -1,1 +1,1 @@
-Prints every minute of the day of jack baeur
+A function that prints the 9 times table, starting with 0
