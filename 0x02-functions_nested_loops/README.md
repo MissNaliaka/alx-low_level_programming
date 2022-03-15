@@ -1,1 +1,1 @@
-writing a program that prints _putchar
+print the alphabet in lowercase
