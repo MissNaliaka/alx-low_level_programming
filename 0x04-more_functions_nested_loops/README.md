@@ -1,1 +1,1 @@
-A function that prints a triangle
+program that finds the prime factor of a number
