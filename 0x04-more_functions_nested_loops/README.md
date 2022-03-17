@@ -1,1 +1,1 @@
-program that finds the prime factor of a number
+printing an integer without long, arrays, or pointers
