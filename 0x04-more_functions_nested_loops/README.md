@@ -1,1 +1,1 @@
-Function that checks for upper case character
+function that checks for a digit
