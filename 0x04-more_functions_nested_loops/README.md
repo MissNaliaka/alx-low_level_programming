@@ -1,1 +1,1 @@
-function that checks for a digit
+Multiplyig two integers
