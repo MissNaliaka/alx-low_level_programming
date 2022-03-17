@@ -1,1 +1,1 @@
-function that prints numbers from 0 to 9
+function that prints the numbers from 0 to 9
