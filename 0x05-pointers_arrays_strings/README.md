@@ -1,1 +1,1 @@
-add task 10
+generate valid passwords
