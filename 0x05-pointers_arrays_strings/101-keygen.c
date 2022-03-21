@@ -5,7 +5,7 @@
 /**
  * main - random password generator for 101-crackme
  *
- * Return: always 0
+ * Return: 0 on success
  */
 int main(void)
 {
