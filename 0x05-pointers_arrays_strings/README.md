@@ -1,1 +1,1 @@
-function that copies string pointed to by src
+function that prints n elements of an integer
