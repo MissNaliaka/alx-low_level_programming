@@ -1,1 +1,1 @@
-function that prints n elements of an integer
+add task 10
