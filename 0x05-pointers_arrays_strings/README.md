@@ -1,1 +1,1 @@
-print half of a string
+function that copies string pointed to by src
