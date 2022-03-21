@@ -1,1 +1,1 @@
-function that prints a string in reverse
+Function that reverses a string
