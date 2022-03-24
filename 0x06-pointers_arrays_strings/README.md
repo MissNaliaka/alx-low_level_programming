@@ -1,1 +1,1 @@
-last task
+pointers, arrays, and strings
