@@ -5,7 +5,7 @@
  * @accept: string containing the characters to match
  * Return: Always 0
  */
-char *_strpbrk(char *s, char *accept);
+char *_strpbrk(char *s, char *accept)
 {
 	int j;
 
