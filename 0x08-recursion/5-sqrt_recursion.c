@@ -5,7 +5,7 @@ int actual_sqrt_recursion(int n, int i);
  * @n: integer
  * Return: -1 if n has no natural sqrt
  */
-int _sqrt_recursion(int n);
+int _sqrt_recursion(int n)
 {
 	if (n < 0)
 		return (-1);
