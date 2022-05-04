@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Auth: Camilacamelyn
+ * Auth: Virginia Wabuke
  */
 
 #include <elf.h>
